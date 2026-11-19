@@ -630,6 +630,11 @@ Vydání oprávněné osobě podle § 112 přichází v úvahu jen tehdy, je-li 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 3430/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9AD87D835BDDB227C1258ADE001B8709?openDocument) — 9. 1. 2024, kat. A
+  > „Okolnost, že věc přijatá do úschovy soudu byla zničena, ztracena nebo vydána neoprávněné osobě, nepředstavuje sama o sobě nedostatek podmínky řízení, pro který by bylo možno zastavit řízení o vydání předmětu úschovy"
+
 #### Odstavec 1 – nejprve složení, potom rozhodnutí
 
 Řízení o úschovách (§ 289 a násl. z. ř. s.) slouží ke splnění závazku složením peněz, cenných papírů nebo jiných movitých věcí u soudu (§ 290 z. ř. s.). Řízení lze zahájit jen na návrh, který musí obsahovat prohlášení složitele o důvodu úschovy (nepřítomnost nebo prodlení věřitele, odůvodněné pochybnosti, kdo je věřitelem, neznámý věřitel); u povinné úschovy se prohlášení nevyžaduje (§ 291 z. ř. s.). Po právní moci rozhodnutí o přijetí se účastníkem stává i příjemce a ten, kdo uplatňuje právo na předmět úschovy (§ 292 z. ř. s.).

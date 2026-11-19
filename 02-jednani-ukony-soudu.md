@@ -761,6 +761,11 @@ O poučení k zajištění tajnosti utajovaných skutečností „podle zvlášt
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2288/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/956B8CD436106AE1C1257BAA0033AE39?openDocument) — 2. 7. 2013, kat. A
+  > „Fikce uznání nároku podle ustanovení § 114b odst. 5 o. s. ř. nenastane, jestliže usnesení, kterým byl žalovaný vyzván, aby se ve stanovené lhůtě ve věci písemně vyjádřil (§ 114b odst. 1 o. s. ř.), a které bylo žalovanému řádně doručeno, neobsahuje předepsané formální náležitosti, a není proto veřejnou listinou"
+
 #### Odst. 1 a 2 — podoba vyhotovení
 
 Soud vyhotovuje rozhodnutí a další písemnosti **v podobě, v jaké je veden spis**; u listinného spisu může předseda senátu rozhodnout o elektronickém vyhotovení. Opisy a stejnopisy se vyhotovují listinně nebo elektronicky **podle způsobu doručování**. Pravidlo navazuje na § 158 odst. 1 a 2 o. s. ř., který počítá s písemným vyhotovením rozsudku „v listinné nebo elektronické podobě“ a s doručováním stejnopisu listinného rozsudku nebo rozsudku elektronického. Listinné opisy a stejnopisy podepisuje ten, kdo je vyhotovil (odst. 2) — tím se odlišuje podpis originálu (předseda senátu, § 158 odst. 1 o. s. ř.) od ověření shody stejnopisu.
@@ -874,6 +879,11 @@ Má-li být na podkladě rozhodnutí proveden **vklad do katastru**, vyhotoví s
 **Elektronický spis (odst. 3).** Vyznačení provede oprávněná osoba v elektronickém spisu a opatří je svým **kvalifikovaným elektronickým podpisem** a **kvalifikovaným časovým razítkem**.
 
 **Výkladová otázka — oprava chybného vyznačení.** Vyhláška opravu neupravuje. S ohledem na deklaratorní povahu lze dovodit, že oprávněná osoba chybný záznam zřetelně opraví (s datem a podpisem), aby původní zápis zůstal čitelný, a o opravě vyrozumí ty, jimž byly vydány stejnopisy s doložkou.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 154/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FDF14A734BDE494EC125876B0018A016?openDocument) — 29. 7. 2021, kat. A
+  > „Je-li den právní moci usnesení insolvenčního soudu současně i dnem dokládajícím jeho doručení zveřejněním v insolvenčním rejstříku i při zvláštním způsobu doručení této písemnosti (§ 74 odst. 2 insolvenčního zákona), pak pravidlo, podle kterého se lhůta k podání opravného prostředku nebo k učinění jiného procesního úkonu (např. k podání žaloby) počítá ode dne právní moci takového usnesení, je nutno vyložit prostřednictvím ustanovení § 74 odst. 2 insolvenčního zákona tak, že tato lhůta běží osobě, které má být usnesení doručeno i zvláštním způsobem, v případě, že takové doručení má následovat až po doručení vyhláškou, ode dne doručení usnesení zvláštním způsobem. Žalobu, kterou insolvenční správce ve smyslu ustanovení § 199 odst. 1 insolvenčního zákona uplatní u insolvenčního soudu své popření vykonatelné pohledávky proti věřiteli, který ji přihlásil, nelze odmítnout jako opožděnou…"
 
 #### F. Kazuistika
 

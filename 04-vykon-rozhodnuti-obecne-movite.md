@@ -564,6 +564,11 @@ Soupis na místě se řídí § 326 o. s. ř. a § 50 JŘ jej technicky rozvád�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 1330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/067E226015ED3E97C12586010023F9FE?openDocument) — 9. 9. 2020, kat. A
+  > „„Soudní exekutor může pojmout silniční motorové vozidlo do soupisu movitých věcí, ačkoliv je mu při soupisu předložen technický průkaz osvědčující vlastnictví třetí osoby, pouze tehdy, má-li důvodné pochybnosti o pravdivosti údajů v technickém průkazu.“"
+
 #### Soupis přes tvrzení třetí osoby (odst. 1)
 
 Tvrdí-li osoba přítomná při soupisu, že věc patří třetí osobě nebo že je z výkonu vyloučena, vykonavatel věc přesto sepíše, pokud nejsou jiné postižitelné věci, které by k úhradě nároku s příslušenstvím postačily. Soupis se neprovede jen tehdy, je-li na místě nepochybně prokázáno, že věc povinnému nepatří. Ustanovení vychází ze zásady, že vykonavatel o vlastnictví nerozhoduje. Pouhá tvrzení nemohou zmařit výkon; sporné vlastnictví řeší soud v řízení o vylučovací žalobě (§ 267 o. s. ř.).
