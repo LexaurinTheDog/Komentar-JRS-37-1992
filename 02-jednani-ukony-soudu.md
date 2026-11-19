@@ -766,13 +766,15 @@ O poučení k zajištění tajnosti utajovaných skutečností „podle zvlášt
 - *NS* [21 Cdo 2288/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/956B8CD436106AE1C1257BAA0033AE39?openDocument) — 2. 7. 2013, kat. A
   > „Fikce uznání nároku podle ustanovení § 114b odst. 5 o. s. ř. nenastane, jestliže usnesení, kterým byl žalovaný vyzván, aby se ve stanovené lhůtě ve věci písemně vyjádřil (§ 114b odst. 1 o. s. ř.), a které bylo žalovanému řádně doručeno, neobsahuje předepsané formální náležitosti, a není proto veřejnou listinou"
 
+**K místní judikaturní kartě NS 21 Cdo 2288/2012:** Karta nevykládá jednací řád, nýbrž § 114b odst. 5 o. s. ř.: fikce uznání nároku nenastane, jestliže usnesení vyzývající žalovaného k písemnému vyjádření (§ 114b odst. 1 o. s. ř.) sice bylo řádně doručeno, ale neobsahuje předepsané formální náležitosti, a proto není veřejnou listinou (srov. § 134 o. s. ř.). Na § 21b tedy míří jen nepřímo. Plyne z ní však prakticky významný závěr: formální úplnost vyhotovení není samoúčelná, protože na ní může záviset, zda doručená písemnost vyvolá procesní následek, který s ní zákon spojuje, a to i tehdy, když samo doručení vadné není. § 21b je jedním z míst, kde jsou formální náležitosti vyhotovení stanoveny (podpis toho, kdo listinný opis či stejnopis vyhotovil, podle odst. 2; kvalifikovaný elektronický podpis nebo pečeť a časové razítko podle odst. 3; identifikátor a vizualizace podle odst. 4). Hranice závěru: karta obsahuje jen právní větu, takže z ní nelze zjistit, která náležitost v souzené věci chyběla, ani zda šlo o náležitost stanovenou zákonem, nebo jen jednacím řádem; zda vada spočívající výlučně v porušení § 21b sama zbavuje písemnost povahy veřejné listiny, karta neřeší. Rozhodnutí je z 2. 7. 2013, kdežto současné znění odst. 3 a 4 pracuje s kvalifikovaným elektronickým podpisem, pečetí a časovým razítkem, na něž navazuje zákon č. 297/2016 Sb. (viz výklad k odst. 3); současné znění těchto odstavců proto karta posuzovat nemohla. Závěr se týká přísného následku (fikce uznání); jeho přenesení na jiné účinky doručení (např. počátek lhůty k odvolání) vyžaduje samostatnou úvahu.
+
 #### Odst. 1 a 2 — podoba vyhotovení
 
 Soud vyhotovuje rozhodnutí a další písemnosti **v podobě, v jaké je veden spis**; u listinného spisu může předseda senátu rozhodnout o elektronickém vyhotovení. Opisy a stejnopisy se vyhotovují listinně nebo elektronicky **podle způsobu doručování**. Pravidlo navazuje na § 158 odst. 1 a 2 o. s. ř., který počítá s písemným vyhotovením rozsudku „v listinné nebo elektronické podobě“ a s doručováním stejnopisu listinného rozsudku nebo rozsudku elektronického. Listinné opisy a stejnopisy podepisuje ten, kdo je vyhotovil (odst. 2) — tím se odlišuje podpis originálu (předseda senátu, § 158 odst. 1 o. s. ř.) od ověření shody stejnopisu.
 
 #### Odst. 3 — elektronické vyhotovení
 
-Elektronické rozhodnutí a jeho elektronické opisy či stejnopisy musí být podepsány **kvalifikovaným elektronickým podpisem** vyhotovitele nebo zapečetěny **kvalifikovanou elektronickou pečetí** soudu a opatřeny **kvalifikovaným elektronickým časovým razítkem**. To odpovídá obecnému režimu zákona č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce (§ 5 — kvalifikovaný podpis při úkonu státu, § 8 — pečeť, § 11 — časové razítko). Absence předepsaného podpisu či razítka je vadou vyhotovení, která může zpochybnit doručení a s ním počátek lhůt.
+Elektronické rozhodnutí a jeho elektronické opisy či stejnopisy musí být podepsány **kvalifikovaným elektronickým podpisem** vyhotovitele nebo zapečetěny **kvalifikovanou elektronickou pečetí** soudu a opatřeny **kvalifikovaným elektronickým časovým razítkem**. To odpovídá obecnému režimu zákona č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce (§ 5 — kvalifikovaný podpis při úkonu státu, § 8 — pečeť, § 11 — časové razítko). Absence předepsaného podpisu či razítka je vadou vyhotovení, která může zpochybnit doručení a s ním počátek lhůt. Místní karta NS 21 Cdo 2288/2012 ukazuje, že dopad formální vady se nemusí omezit na doručení: řádně doručené usnesení podle § 114b odst. 1 o. s. ř., které neobsahuje předepsané formální náležitosti, není veřejnou listinou a fikci uznání nevyvolá. Které náležitosti v souzené věci chyběly, právní věta neuvádí.
 
 #### Odst. 4 — hybridní vyhotovení za součinnosti provozovatele poštovních služeb
 
@@ -797,22 +799,24 @@ Má-li být na podkladě rozhodnutí proveden **vklad do katastru**, vyhotoví s
 
 **5. Řešení.** Soud prvního stupně vyhotoví nový výpis s údaji o právní moci, pouze s vkladovou částí výroku a s geometrickým plánem (je-li plán listinný, připojí se k listinnému výpisu). Účastník, jemuž vklad vázne, může soud na vadu upozornit; vada výpisu nemá vliv na pravomocné rozhodnutí samo.
 
-**6. Varianty.** (a) Rozhodnutí obsahuje kupní smlouvu, jejíž plné znění není ve výroku — připojí se v plném znění (odst. 6). (b) Listinný stejnopis rozsudku vyhotovený přes provozovatele poštovních služeb nemá identifikátor — vada podle odst. 4; adresát může žádat nový stejnopis.
+**6. Varianty.** (a) Rozhodnutí obsahuje kupní smlouvu, jejíž plné znění není ve výroku — připojí se v plném znění (odst. 6). (b) Listinný stejnopis rozsudku vyhotovený přes provozovatele poštovních služeb nemá identifikátor — vada podle odst. 4; adresát může žádat nový stejnopis. (c) Žalovanému je řádně doručeno usnesení podle § 114b odst. 1 o. s. ř., jehož vyhotovení postrádá předepsané formální náležitosti, a žalovaný se ve lhůtě nevyjádří. Fikce uznání podle § 114b odst. 5 o. s. ř. nenastane (místní karta NS 21 Cdo 2288/2012). Spočívá-li vada jen v porušení § 21b (např. chybí podpis toho, kdo stejnopis vyhotovil), je její dopad otevřenou otázkou, kterou karta neřeší; bezpečnější je doručit výzvu znovu v řádně vyhotovené podobě, dokud to § 114b odst. 3 o. s. ř. dovoluje.
 
 #### G. Protiargumenty a rizika
 
 - *„Katastr si údaje vyčte z celého rozsudku.“* Neutralizace: zákon odkazuje na prováděcí předpis a ten vyžaduje výpis s taxativními náležitostmi; zasílání celého rozsudku zbytečně zpřístupňuje údaje účastníků.
+- *„Na formálních náležitostech nezáleží, byla-li písemnost řádně doručena.“* Neutralizace: podle místní karty NS 21 Cdo 2288/2012 nenastane fikce uznání podle § 114b odst. 5 o. s. ř., neobsahuje-li řádně doručené usnesení předepsané formální náležitosti, neboť pak není veřejnou listinou; řádné doručení formální vadu nezhojí. Zda totéž platí pro každou náležitost stanovenou jen § 21b, karta neříká.
 - *Riziko:* chybné nebo chybějící kvalifikované podpisy/časová razítka u elektronických vyhotovení mohou vyvolat spory o řádnost doručení.
 
 #### H. Praktický závěr
 
-§ 21b propojuje podobu spisu s podobou vyhotovení, stanoví požadavky na elektronické podpisy, pečeti a razítka, hybridní vyhotovení a výpisy pro katastr.
+§ 21b propojuje podobu spisu s podobou vyhotovení, stanoví požadavky na elektronické podpisy, pečeti a razítka, hybridní vyhotovení a výpisy pro katastr. Formální úplnost vyhotovení může rozhodnout o tom, zda doručená písemnost vyvolá zákonný procesní následek (místní karta NS 21 Cdo 2288/2012 k fikci uznání podle § 114b odst. 5 o. s. ř.).
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Odpovídá podoba vyhotovení podobě spisu a způsobu doručení?
 - [ ] Má elektronické vyhotovení kvalifikovaný podpis/pečeť a časové razítko?
 - [ ] Nese hybridní stejnopis identifikátor a vizualizace podpisu a razítka?
 - [ ] Obsahuje katastrální výpis všechny náležitosti písm. a)–i) a přílohy podle odst. 6 a 7?
+- [ ] Váže-li zákon na doručenou písemnost procesní následek (např. výzva podle § 114b o. s. ř.), obsahuje vyhotovení všechny předepsané formální náležitosti (srov. NS 21 Cdo 2288/2012)?
 
 ### § 22 — Použití úředního razítka
 
@@ -826,7 +830,7 @@ Má-li být na podkladě rozhodnutí proveden **vklad do katastru**, vyhotoví s
 
 **Obsah.** Odst. 1 obsahuje demonstrativní („zejména“) výčet listin, které soud opatřuje otiskem **kulatého úředního razítka**: listinné opisy a stejnopisy soudních rozhodnutí; listiny o pověření péčí a zastupováním nezletilého, o ustanovení či jmenování opatrovníkem nebo poručníkem; pověření soudního komisaře; pověření a nařízení exekuce; schválení smlouvy o nápomoci a schválení zastoupení členem domácnosti; úřední potvrzení (vysvědčení); nařízení výkonu trestu a ochranných opatření; příkazy k zatčení, zadržení, vzetí do vazby a propuštění z vazby či výkonu trestu; žádost o vypátrání pobytu; opatření o ustanovení obhájce; a všechny písemnosti určené pro soudy nebo jiné orgány v cizině.
 
-**Zákonný rámec.** Podobu úředního razítka stanoví zákon č. 352/2001 Sb., o užívání státních symbolů: úřední razítko vytváří otisk kruhového tvaru o průměru 20, 25 nebo 36 mm s malým státním znakem a označením oprávněné osoby (§ 6 odst. 1); malý státní znak se užívá na rozhodnutích a jiných listinách osvědčujících důležité skutečnosti vydávaných při výkonu státní moci (§ 5). Vyhláška určuje, **kdy** soud razítko použije. Výčet odráží listiny, jimiž se osoba prokazuje vůči třetím osobám (opatrovník, poručník, podpůrce — § 45 a násl. občanského zákoníku; zastoupení členem domácnosti — § 49 občanského zákoníku), listiny adresované jiným orgánům (pověření exekutora podle § 43a exekučního řádu; příkazy v trestním řízení) a styk s cizinou. Razítko je **ověřovacím prvkem**, nikoli podmínkou platnosti rozhodnutí; jeho absence však může vést k odmítnutí listiny adresátem (banka, úřad, zahraniční orgán).
+**Zákonný rámec.** Podobu úředního razítka stanoví zákon č. 352/2001 Sb., o užívání státních symbolů: úřední razítko vytváří otisk kruhového tvaru o průměru 20, 25 nebo 36 mm s malým státním znakem a označením oprávněné osoby (§ 6 odst. 1); malý státní znak se užívá na rozhodnutích a jiných listinách osvědčujících důležité skutečnosti vydávaných při výkonu státní moci (§ 5). Vyhláška určuje, **kdy** soud razítko použije. Výčet odráží listiny, jimiž se osoba prokazuje vůči třetím osobám (opatrovník, poručník, podpůrce — § 45 a násl. občanského zákoníku; zastoupení členem domácnosti — § 49 občanského zákoníku), listiny adresované jiným orgánům (pověření exekutora podle § 43a exekučního řádu; příkazy v trestním řízení) a styk s cizinou. Razítko je **ověřovacím prvkem**, nikoli podmínkou platnosti rozhodnutí; jeho absence však může vést k odmítnutí listiny adresátem (banka, úřad, zahraniční orgán). Zda chybějící razítko na doručovaném stejnopisu může být i chybějící předepsanou formální náležitostí, pro kterou písemnost není veřejnou listinou a nevyvolá procesní následek, jenž s ní zákon spojuje (srov. místní kartu NS 21 Cdo 2288/2012 u § 21b), karta neuvádí, protože nejmenuje, která náležitost v souzené věci chyběla; jde o výkladovou otázku.
 
 **Odst. 2 — výjimka.** Razítko se nepoužije, podílí-li se na vyhotovení listinných stejnopisů provozovatel poštovních služeb podle § 48 odst. 4 o. s. ř.; ověřovací funkci tu plní specifický identifikátor a vizualizace kvalifikovaného podpisu či pečeti a časového razítka (§ 21b odst. 4 JŘ). Elektronická vyhotovení razítko nenesou — nahrazuje je kvalifikovaný podpis nebo pečeť (§ 21b odst. 3).
 
@@ -870,7 +874,7 @@ Má-li být na podkladě rozhodnutí proveden **vklad do katastru**, vyhotoví s
 
 **Výklad:**
 
-**Deklaratorní povaha.** Právní moc nastává **ze zákona** — v civilním řízení je v právní moci doručený rozsudek, který již nelze napadnout odvoláním (§ 159 o. s. ř.); v trestním řízení podle § 139 tr. ř. Vyznačení podle § 23 je úředním záznamem o tom, že a kdy právní moc nastala; samo právní moc nezakládá ani neodkládá. Chybné vyznačení proto nezpůsobí právní moc rozhodnutí, které jí nenabylo, a naopak chybějící vyznačení nebrání právní moci, která nastala.
+**Deklaratorní povaha.** Právní moc nastává **ze zákona** — v civilním řízení je v právní moci doručený rozsudek, který již nelze napadnout odvoláním (§ 159 o. s. ř.); v trestním řízení podle § 139 tr. ř. Vyznačení podle § 23 je úředním záznamem o tom, že a kdy právní moc nastala; samo právní moc nezakládá ani neodkládá. Chybné vyznačení proto nezpůsobí právní moc rozhodnutí, které jí nenabylo, a naopak chybějící vyznačení nebrání právní moci, která nastala. Deklaratorní povaha však neznamená, že vyznačení je bez procesního významu: podle místní karty NS 29 ICdo 154/2020 nelze v insolvenčním řízení odmítnout jako opožděnou incidenční žalobu insolvenčního správce, který se při počítání lhůty od právní moci řídil nesprávně vyznačenou doložkou, a lhůta neskončí dříve, než insolvenční soud doložku vyznačí (podrobněji u karty níže).
 
 **Postup (odst. 1).** Jakmile soudce zjistí, že rozhodnutí nabylo právní moci, zaznamená to na vyhotovení založeném ve spise s uvedením **dne právní moci**, připojí **čitelný podpis a datum vyznačení**. Částečná právní moc se musí vyjádřit přesně (který výrok, vůči komu). Návrh na doplnění rozsudku není překážkou vyznačení — souladně s § 166 odst. 3 o. s. ř. (návrh na doplnění se nedotýká právní moci ani vykonatelnosti výroků původního rozsudku).
 
@@ -878,12 +882,14 @@ Má-li být na podkladě rozhodnutí proveden **vklad do katastru**, vyhotoví s
 
 **Elektronický spis (odst. 3).** Vyznačení provede oprávněná osoba v elektronickém spisu a opatří je svým **kvalifikovaným elektronickým podpisem** a **kvalifikovaným časovým razítkem**.
 
-**Výkladová otázka — oprava chybného vyznačení.** Vyhláška opravu neupravuje. S ohledem na deklaratorní povahu lze dovodit, že oprávněná osoba chybný záznam zřetelně opraví (s datem a podpisem), aby původní zápis zůstal čitelný, a o opravě vyrozumí ty, jimž byly vydány stejnopisy s doložkou.
+**Výkladová otázka — oprava chybného vyznačení.** Vyhláška opravu neupravuje. S ohledem na deklaratorní povahu lze dovodit, že oprávněná osoba chybný záznam zřetelně opraví (s datem a podpisem), aby původní zápis zůstal čitelný, a o opravě vyrozumí ty, jimž byly vydány stejnopisy s doložkou. Postup opravy místní karta NS 29 ICdo 154/2020 neřeší; ukazuje však, proč je oprava a vyrozumění naléhavé: do opravy se účastníci mohou nesprávnou doložkou řídit a v rozsahu karty (včasnost incidenční žaloby insolvenčního správce) jim to nesmí být na újmu.
 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 ICdo 154/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FDF14A734BDE494EC125876B0018A016?openDocument) — 29. 7. 2021, kat. A
   > „Je-li den právní moci usnesení insolvenčního soudu současně i dnem dokládajícím jeho doručení zveřejněním v insolvenčním rejstříku i při zvláštním způsobu doručení této písemnosti (§ 74 odst. 2 insolvenčního zákona), pak pravidlo, podle kterého se lhůta k podání opravného prostředku nebo k učinění jiného procesního úkonu (např. k podání žaloby) počítá ode dne právní moci takového usnesení, je nutno vyložit prostřednictvím ustanovení § 74 odst. 2 insolvenčního zákona tak, že tato lhůta běží osobě, které má být usnesení doručeno i zvláštním způsobem, v případě, že takové doručení má následovat až po doručení vyhláškou, ode dne doručení usnesení zvláštním způsobem. Žalobu, kterou insolvenční správce ve smyslu ustanovení § 199 odst. 1 insolvenčního zákona uplatní u insolvenčního soudu své popření vykonatelné pohledávky proti věřiteli, který ji přihlásil, nelze odmítnout jako opožděnou…"
+
+**K místní judikaturní kartě NS 29 ICdo 154/2020:** Karta se týká insolvenčního řízení a vykládá insolvenční zákon, nikoli jednací řád; na § 23 míří nepřímo. Její první část řeší počátek lhůty počítané od právní moci usnesení insolvenčního soudu, je-li den právní moci zároveň dnem doručení vyhláškou a má-li být usnesení téže osobě doručeno i zvláštním způsobem až po doručení vyhláškou: lhůta jí běží ode dne doručení zvláštním způsobem (§ 74 odst. 2 insolvenčního zákona). Pro § 23 je podstatnější část, kterou citace výše zkracuje. Plné znění právní věty v kartě ([judikatura/NS-29-ICdo-154-2020.md](judikatura/NS-29-ICdo-154-2020.md)) pokračuje tak, že žalobu insolvenčního správce podle § 199 odst. 1 insolvenčního zákona „nelze odmítnout jako opožděnou (podle § 160 odst. 4 insolvenčního zákona), jestliže se insolvenční správce při určení počátku běhu třicetidenní lhůty k jejímu podání řídil nesprávně vyznačenou doložkou právní moci na usnesení o schválení zprávy o přezkumu“, a lhůta k podání žaloby „neskončí dříve, než dnem, kdy insolvenční soud uvedené usnesení opatří doložkou právní moci“. Z toho plyne, že vyznačení právní moci sice právní moc nezakládá, v rozsahu karty však má vlastní procesní význam: kdo se nesprávně vyznačenou doložkou řídil, nesmí být zkrácen na lhůtě, a lhůta počítaná od právní moci nemůže uplynout dříve, než je doložka vyznačena. Vyhláška č. 311/2007 Sb., o jednacím řádu pro insolvenční řízení, vyznačení právní moci neupravuje (její § 16 upravuje jen doložku o okamžiku zveřejnění písemnosti v insolvenčním rejstříku) a pro insolvenční řízení a incidenční spory odkazuje na přiměřené použití jednacího řádu pro okresní a krajské soudy (§ 18); vyznačení právní moci se proto v insolvenčním řízení řídí přiměřeně § 23. Hranice závěru: karta obsahuje jen právní větu z 29. 7. 2021, vztaženou k tehdejšímu znění insolvenčního zákona, a výslovně se týká insolvenčního řízení, incidenční žaloby insolvenčního správce a usnesení o schválení zprávy o přezkumu. Zda se ochrana důvěry v nesprávně vyznačenou doložku uplatní i v občanském soudním řízení mimo insolvenci (např. u lhůty počítané od právní moci), karta neřeší; zůstává to výkladovou otázkou.
 
 #### F. Kazuistika
 
@@ -900,22 +906,23 @@ Má-li být na podkladě rozhodnutí proveden **vklad do katastru**, vyhotoví s
 
 **5. Řešení.** Právní moc nastala ze zákona později; chybné vyznačení se opraví. Žalovaný se může bránit v exekučním řízení s poukazem na to, že titul v rozhodné době nebyl pravomocný.
 
-**6. Varianty.** (a) Žalovaný podal včas odvolání jen proti výroku o nákladech — vyznačí se částečná právní moc výroku ve věci samé, přesně vyjádřená. (b) Žalobce podal návrh na doplnění rozsudku — vyznačení není bráněno (odst. 1 věta poslední).
+**6. Varianty.** (a) Žalovaný podal včas odvolání jen proti výroku o nákladech — vyznačí se částečná právní moc výroku ve věci samé, přesně vyjádřená. (b) Žalobce podal návrh na doplnění rozsudku — vyznačení není bráněno (odst. 1 věta poslední). (c) Insolvenční soud vyznačí na usnesení o schválení zprávy o přezkumu nesprávný den právní moci a insolvenční správce podá incidenční žalobu ve lhůtě počítané podle této doložky. Žalobu nelze odmítnout jako opožděnou (místní karta NS 29 ICdo 154/2020); mimo insolvenční řízení karta obdobný závěr nečiní.
 
 #### G. Protiargumenty a rizika
 
-- *„Doložka je veřejná listina, platí, co je v ní.“* Neutralizace: právní moc plyne ze zákona; vyznačení je jen deklaratorní a lze prokázat opak.
+- *„Doložka je veřejná listina, platí, co je v ní.“* Neutralizace: právní moc plyne ze zákona; vyznačení je jen deklaratorní a lze prokázat opak. Opak však podle místní karty NS 29 ICdo 154/2020 nelze v insolvenčním řízení obrátit proti insolvenčnímu správci, který se nesprávně vyznačenou doložkou řídil při podání incidenční žaloby; obecné pravidlo ochrany důvěry v doložku mimo tuto situaci karta nezakládá.
 - *Riziko:* výpočet od nejdřívějšího doručení; nepřesné vyjádření částečné právní moci.
 
 #### H. Praktický závěr
 
-Vyznačení právní moci je deklaratorní úřední záznam; musí přesně uvádět den, rozsah a podpis oprávněné osoby, v e-spisu s kvalifikovaným podpisem a časovým razítkem.
+Vyznačení právní moci je deklaratorní úřední záznam; musí přesně uvádět den, rozsah a podpis oprávněné osoby, v e-spisu s kvalifikovaným podpisem a časovým razítkem. Nesprávné vyznačení přesto může mít procesní důsledky pro toho, kdo se jím řídil; v insolvenčním řízení je dokládá místní karta NS 29 ICdo 154/2020.
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Bylo rozhodnutí doručeno všem, jimž se doručuje, a uplynula lhůta pro všechny?
 - [ ] Je vyjádřen rozsah částečné právní moci?
 - [ ] Je vyznačující osoba oprávněna (vydala rozhodnutí / byla pověřena)?
 - [ ] V e-spisu: kvalifikovaný podpis a časové razítko?
+- [ ] Byla-li doložka vyznačena nesprávně: neřídil se jí již někdo při počítání lhůty (v insolvenčním řízení srov. NS 29 ICdo 154/2020) a byl o opravě vyrozuměn?
 
 ### § 24 — Doložka o právní moci a vykonatelnosti rozhodnutí
 
@@ -931,7 +938,7 @@ Vyznačení právní moci je deklaratorní úřední záznam; musí přesně uv�
 
 **Výklad:**
 
-**Funkce.** Doložka o právní moci a doložka vykonatelnosti umožňují účastníkovi prokázat právní moc a vykonatelnost rozhodnutí vůči třetím osobám — exekutorovi, katastru, bance, jinému orgánu. Obě doložky jsou **deklaratorní**: právní moc a vykonatelnost plynou ze zákona (§ 159 a § 161 o. s. ř. — rozsudek je vykonatelný uplynutím lhůty k plnění, neukládá-li plnění, právní mocí; v trestním řízení § 139 tr. ř.). Doložka vychází z vyznačení ve spise (§ 23).
+**Funkce.** Doložka o právní moci a doložka vykonatelnosti umožňují účastníkovi prokázat právní moc a vykonatelnost rozhodnutí vůči třetím osobám — exekutorovi, katastru, bance, jinému orgánu. Obě doložky jsou **deklaratorní**: právní moc a vykonatelnost plynou ze zákona (§ 159 a § 161 o. s. ř. — rozsudek je vykonatelný uplynutím lhůty k plnění, neukládá-li plnění, právní mocí; v trestním řízení § 139 tr. ř.). Doložka vychází z vyznačení ve spise (§ 23). K procesnímu významu nesprávně vyznačené doložky právní moci v insolvenčním řízení viz místní kartu NS 29 ICdo 154/2020 u § 23; z karty plyne, že deklaratorní povaha doložky nevylučuje ochranu toho, kdo se jí řídil, v rozsahu tam popsaném.
 
 **Listinná doložka (odst. 1 a 2).** Na **žádost** toho, komu bylo rozhodnutí doručeno **dříve, než nabylo právní moci**, vyznačí soud doložku právní moci s datem právní moci a podpisem osoby, která ji připojila, na **předloženém listinném stejnopisu** nebo na **listinné konvertované verzi** — listinném výstupu z autorizované konverze elektronického rozhodnutí či stejnopisu podle zákona č. 300/2008 Sb. (pozn. 2a; konverze § 22 a násl. tohoto zákona). Doložku vykonatelnosti vyznačí obdobně na žádost toho, komu bylo rozhodnutí doručeno (odst. 2). Smysl podmínky „doručeno dříve, než nabylo právní moci“ u odst. 1 lze výkladově spatřovat v tom, že doručený stejnopis údaj o právní moci nemohl obsahovat a doložka jej dodatečně doplňuje. Doložky na stejnopisy mohou vyznačovat i vedoucí soudní kanceláře (§ 6 odst. 9 písm. c) JŘ).
 

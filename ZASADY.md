@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění vyhlášky citované v kapitolách [01](01-organizace-ukoly-nahlizeni.md) až [07](07-poverovani-uschovy-zaverecna.md) a výklad v nich obsažený; souvislosti shrnuje [00-uvod.md](00-uvod.md). Každá zásada je doložena **doslovnými citacemi** z kapitol s odkazem na soubor a paragraf; citace jsou strojově ověřeny proti textu kapitol. Jednací řád je podzákonný prováděcí předpis s převážně organizační povahou a **repozitář k němu neobsahuje žádnou místní judikaturu** — zásady níže proto nejsou judikatorními tezemi, nýbrž jsou dovozeny z textu vyhlášky, z jejího vztahu k prováděným zákonům a z ústavního rámce, jak je zachycuje komentář. Tam, kde by u jiného předpisu stála judikatorní opora, je namístě poctivě uvést, že místní prameny ji neobsahují.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění vyhlášky citované v kapitolách [01](01-organizace-ukoly-nahlizeni.md) až [07](07-poverovani-uschovy-zaverecna.md) a výklad v nich obsažený; souvislosti shrnuje [00-uvod.md](00-uvod.md). Každá zásada je doložena **doslovnými citacemi** z kapitol s odkazem na soubor a paragraf; citace jsou strojově ověřeny proti textu kapitol. Jednací řád je podzákonný prováděcí předpis s převážně organizační povahou a **repozitář k němu obsahuje jen čtyři místní karty rozhodnutí Nejvyššího soudu** (složka [judikatura/](judikatura/README.md)), z nichž žádná podle své právní věty jednací řád přímo nevykládá — zásady níže proto nejsou judikatorními tezemi, nýbrž jsou dovozeny z textu vyhlášky, z jejího vztahu k prováděným zákonům a z ústavního rámce, jak je zachycuje komentář. Karty jsou u zásad 6, 8 a 10 připojeny jen jako nepřímá opora, a to citací z kapitol, které jejich dosah a hranice vymezují (karta obsahuje jen právní větu; rozhodující je datum rozhodnutí a tehdejší znění předpisů). Tam, kde místní karta chybí, je namístě poctivě uvést, že místní prameny judikatorní oporu neobsahují.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení. U podzákonného předpisu platí navíc, že zásada vyjádřená vyhláškou nemůže zakládat práva a povinnosti nad rámec zákona.
 
@@ -192,13 +192,25 @@ U elektronického vyhotovení rozhodnutí má absence předepsaných náležitos
 >
 > — [02-jednani-ukony-soudu.md](02-jednani-ukony-soudu.md), § 21b, výklad
 
+Místní karta [NS 21 Cdo 2288/2012](judikatura/NS-21-Cdo-2288-2012.md) tento závěr nepřímo podporuje a posouvá jej i mimo rovinu doručení; karta vykládá § 114b odst. 5 o. s. ř., nikoli vyhlášku, a neuvádí, která náležitost v souzené věci chyběla:
+
+> „Místní karta NS 21 Cdo 2288/2012 ukazuje, že dopad formální vady se nemusí omezit na doručení: řádně doručené usnesení podle § 114b odst. 1 o. s. ř., které neobsahuje předepsané formální náležitosti, není veřejnou listinou a fikci uznání nevyvolá.“
+>
+> — [02-jednani-ukony-soudu.md](02-jednani-ukony-soudu.md), § 21b, výklad
+
+Ověřitelnost se týká i vyznačení právní moci. Místní karta [NS 29 ICdo 154/2020](judikatura/NS-29-ICdo-154-2020.md), vydaná v insolvenčním řízení, ukazuje, že deklaratorní záznam má procesní význam pro toho, kdo se jím řídí:
+
+> „vyznačení právní moci sice právní moc nezakládá, v rozsahu karty však má vlastní procesní význam: kdo se nesprávně vyznačenou doložkou řídil, nesmí být zkrácen na lhůtě, a lhůta počítaná od právní moci nemůže uplynout dříve, než je doložka vyznačena“
+>
+> — [02-jednani-ukony-soudu.md](02-jednani-ukony-soudu.md), § 23, k místní judikaturní kartě
+
 Komentář přitom důsledně odlišuje platnost úkonu od jeho prokazatelnosti:
 
 > „Vady protokolu samy o sobě úkon neruší. Oslabují však jeho důkazní hodnotu“
 >
 > — [04-vykon-rozhodnuti-obecne-movite.md](04-vykon-rozhodnuti-obecne-movite.md), § 49, výklad
 
-Praktickým důsledkem zásady je, že pečlivá dokumentace je především důkazním prostředkem soudu i účastníků: ve sporu o doručení, ve vylučovacím řízení, v řízení o zastavení výkonu nebo o odpovědnosti státu za škodu rozhoduje to, co z protokolu, záznamu nebo elektronického podpisu skutečně vyplývá.
+Praktickým důsledkem zásady je, že pečlivá dokumentace je především důkazním prostředkem soudu i účastníků: ve sporu o doručení, ve vylučovacím řízení, v řízení o zastavení výkonu nebo o odpovědnosti státu za škodu rozhoduje to, co z protokolu, záznamu nebo elektronického podpisu skutečně vyplývá. Obě karty přitom ukazují, že formální úplnost a správnost vyhotovení a doložek může mít i přímé procesní důsledky; mimo situace, které karty řeší (fikce uznání podle § 114b o. s. ř., včasnost incidenční žaloby v insolvenčním řízení), je však jejich přenesení otevřenou otázkou.
 
 ## 7. Šetrnost a přiměřenost výkonu rozhodnutí
 
@@ -255,6 +267,12 @@ Normativně je tento požadavek vyjádřen výslovným zákazem:
 Účinnost výkonu však neznamená, že vykonavatel rozhoduje sporné otázky. Vykonavatel úkony provádí, ale o právech třetích osob nerozhoduje:
 
 > „Ustanovení vychází ze zásady, že vykonavatel o vlastnictví nerozhoduje. Pouhá tvrzení nemohou zmařit výkon; sporné vlastnictví řeší soud v řízení o vylučovací žalobě (§ 267 o. s. ř.).“
+>
+> — [04-vykon-rozhodnuti-obecne-movite.md](04-vykon-rozhodnuti-obecne-movite.md), § 51, výklad
+
+Opačnou mez neutrality vykonavatele, tedy kdy listina předložená na místě soupis vylučuje, nepřímo osvětluje místní karta [NS 31 Cdo 1330/2020](judikatura/NS-31-Cdo-1330-2020.md); vydána byla k postupu soudního exekutora a komentář ji na vykonavatele přenáší jen opatrně:
+
+> „U silničního motorového vozidla, k němuž je předložen technický průkaz osvědčující vlastnictví třetí osoby, připouští místní karta NS 31 Cdo 1330/2020 (vydaná k postupu soudního exekutora) soupis jen při důvodných pochybnostech o pravdivosti údajů v průkazu“
 >
 > — [04-vykon-rozhodnuti-obecne-movite.md](04-vykon-rozhodnuti-obecne-movite.md), § 51, výklad
 
@@ -324,7 +342,13 @@ Třetím prvkem je oddělení svěřených prostředků od majetku notáře, kte
 >
 > — [07-poverovani-uschovy-zaverecna.md](07-poverovani-uschovy-zaverecna.md), § 110, výklad
 
-Čtvrtým prvkem je soudcovská kontrola výdeje, vyjádřená v § 108 požadavkem písemného pokynu soudce k vydání předmětu úschovy. Praktickým důsledkem zásady je, že limity jednacího řádu nelze vykládat jako dovolení k delšímu držení hotovosti, než připouští zákon: slovo trvale v § 110 odst. 2 komentář čte jen jako strop hotovosti do následujícího pracovního dne, protože delší uložení u soudního komisaře by bylo se zákonem neslučitelné.
+Čtvrtým prvkem je soudcovská kontrola výdeje, vyjádřená v § 108 a § 113 odst. 2 požadavkem písemného pokynu soudce k vydání předmětu úschovy. Pro případ, že tato pojistka selže, se komentář k § 113 opírá o místní kartu [NS 24 Cdo 3430/2023](judikatura/NS-24-Cdo-3430-2023.md), která řeší procesní otázku řízení o vydání, nikoli výklad vyhlášky:
+
+> „Selže-li tato pojistka a předmět úschovy je vydán neoprávněné osobě (nebo je zničen či ztracen), řízení o vydání nelze jen pro tuto okolnost zastavit pro nedostatek podmínky řízení (místní karta NS 24 Cdo 3430/2023).“
+>
+> — [07-poverovani-uschovy-zaverecna.md](07-poverovani-uschovy-zaverecna.md), § 113, výklad
+
+Jak má soud v takovém případě věcně rozhodnout, karta neříká. Praktickým důsledkem zásady je, že limity jednacího řádu nelze vykládat jako dovolení k delšímu držení hotovosti, než připouští zákon: slovo trvale v § 110 odst. 2 komentář čte jen jako strop hotovosti do následujícího pracovního dne, protože delší uložení u soudního komisaře by bylo se zákonem neslučitelné.
 
 ## 11. Dosažitelnost soudu pro neodkladné úkony
 

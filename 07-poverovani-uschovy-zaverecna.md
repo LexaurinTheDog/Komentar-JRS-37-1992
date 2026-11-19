@@ -635,6 +635,8 @@ Vydání oprávněné osobě podle § 112 přichází v úvahu jen tehdy, je-li 
 - *NS* [24 Cdo 3430/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9AD87D835BDDB227C1258ADE001B8709?openDocument) — 9. 1. 2024, kat. A
   > „Okolnost, že věc přijatá do úschovy soudu byla zničena, ztracena nebo vydána neoprávněné osobě, nepředstavuje sama o sobě nedostatek podmínky řízení, pro který by bylo možno zastavit řízení o vydání předmětu úschovy"
 
+**K místní judikaturní kartě NS 24 Cdo 3430/2023:** Karta řeší procesní otázku řízení o vydání předmětu úschovy, nikoli výklad jednacího řádu: okolnost, že věc přijatá do úschovy soudu byla zničena, ztracena nebo vydána neoprávněné osobě, sama o sobě nezakládá nedostatek podmínky řízení, pro který by bylo možné řízení o vydání zastavit (srov. § 104 odst. 1 o. s. ř., použitelný v řízení podle z. ř. s. na základě jeho § 1 odst. 3). Na § 113 míří nepřímo, a to především na odst. 2: písemný pokyn soudce k vydání je organizační pojistkou proti vydání předmětu úschovy neoprávněné osobě. Selže-li tato pojistka, nebo je-li věc zničena či ztracena, soud nemůže řízení o vydání ukončit jen poukazem na to, že předmět úschovy již nemá; řízení musí pokračovat. Pro odst. 1 (pořadí složení a rozhodnutí o přijetí) z karty přímo nic neplyne; karta jen předpokládá, že věc byla do úschovy soudu přijata. Hranice závěru: karta obsahuje jen právní větu z 9. 1. 2024. Neříká, jak má soud o vydání v takovém případě věcně rozhodnout, ani zda a jak se oprávněný domůže náhrady; z právní věty nevyplývá ani druh úschovy, skutkové okolnosti a znění předpisů, podle nichž byla věc posouzena. Slova „sama o sobě“ ponechávají prostor pro jiný důvod zastavení, který by v řízení skutečně nastal.
+
 #### Odstavec 1 – nejprve složení, potom rozhodnutí
 
 Řízení o úschovách (§ 289 a násl. z. ř. s.) slouží ke splnění závazku složením peněz, cenných papírů nebo jiných movitých věcí u soudu (§ 290 z. ř. s.). Řízení lze zahájit jen na návrh, který musí obsahovat prohlášení složitele o důvodu úschovy (nepřítomnost nebo prodlení věřitele, odůvodněné pochybnosti, kdo je věřitelem, neznámý věřitel); u povinné úschovy se prohlášení nevyžaduje (§ 291 z. ř. s.). Po právní moci rozhodnutí o přijetí se účastníkem stává i příjemce a ten, kdo uplatňuje právo na předmět úschovy (§ 292 z. ř. s.).
@@ -643,7 +645,7 @@ Vydání oprávněné osobě podle § 112 přichází v úvahu jen tehdy, je-li 
 
 #### Odstavec 2 – písemný pokyn soudce
 
-K vydání předmětu úschovy dává písemný pokyn soudce, stejně jako v řízení o pozůstalosti (§ 108 JŘ). Podmínky vydání stanoví zákon (§ 298 a 299 z. ř. s.): příjemci na jeho žádost, při sporu o právo souhlas všech účastníků a osoby, pro jejíž nesouhlas se skládalo, složiteli za podmínek § 298 odst. 3, jinému jen se souhlasem složitele a příjemce. Rozhodovat v řízení o úschovách může vyšší soudní úředník (§ 11 písm. c) bod 1 zákona č. 121/2008 Sb.) nebo pověřený soudní tajemník (§ 6 odst. 2 písm. m) JŘ); pokyn k vydání však podle JŘ podepisuje soudce.
+K vydání předmětu úschovy dává písemný pokyn soudce, stejně jako v řízení o pozůstalosti (§ 108 JŘ). Podmínky vydání stanoví zákon (§ 298 a 299 z. ř. s.): příjemci na jeho žádost, při sporu o právo souhlas všech účastníků a osoby, pro jejíž nesouhlas se skládalo, složiteli za podmínek § 298 odst. 3, jinému jen se souhlasem složitele a příjemce. Rozhodovat v řízení o úschovách může vyšší soudní úředník (§ 11 písm. c) bod 1 zákona č. 121/2008 Sb.) nebo pověřený soudní tajemník (§ 6 odst. 2 písm. m) JŘ); pokyn k vydání však podle JŘ podepisuje soudce. Selže-li tato pojistka a předmět úschovy je vydán neoprávněné osobě (nebo je zničen či ztracen), řízení o vydání nelze jen pro tuto okolnost zastavit pro nedostatek podmínky řízení (místní karta NS 24 Cdo 3430/2023).
 
 #### Zmocnění a meze
 
@@ -663,22 +665,24 @@ K vydání předmětu úschovy dává písemný pokyn soudce, stejně jako v ř�
 
 **5. Řešení.** Soud nájemce vyzve, aby částku složil na účet soudu, a o přijetí rozhodne až po připsání.
 
-**6. Varianty.** (a) Nájemce složí jen 20 000 Kč: soud rozhoduje o přijetí složené částky; otázku splnění dluhu soud v řízení o úschovách neřeší. (b) Příjemce žádá o vydání: soud vydá po písemném pokynu soudce.
+**6. Varianty.** (a) Nájemce složí jen 20 000 Kč: soud rozhoduje o přijetí složené částky; otázku splnění dluhu soud v řízení o úschovách neřeší. (b) Příjemce žádá o vydání: soud vydá po písemném pokynu soudce. (c) Soud omylem vyplatí složenou částku osobě, která se za příjemce jen vydávala, a skutečný příjemce poté žádá o vydání. Řízení o vydání nelze zastavit s odůvodněním, že předmět úschovy již není k dispozici (místní karta NS 24 Cdo 3430/2023); jak soud o žádosti věcně rozhodne a zda příjemce uplatní náhradu vůči státu, karta neřeší.
 
 #### G. Protiargumenty a rizika
 
 - *„Rozhodnutí o přijetí lze vydat předem, peníze dojdou.“* Odporuje § 113 odst. 1 JŘ a ohrožuje právní jistotu příjemce.
+- *„Předmět úschovy už soud nemá, řízení o vydání je bezpředmětné a zastaví se.“* Neutralizace: podle místní karty NS 24 Cdo 3430/2023 zničení, ztráta ani vydání neoprávněné osobě samy o sobě nejsou nedostatkem podmínky řízení, pro který by bylo možno řízení o vydání zastavit; jak se pak věcně rozhodne, karta neříká.
 - *Riziko:* dlužník se domnívá, že dluh splnil již podáním návrhu; občanský zákoník spojuje náhradní splnění se složením předmětu plnění do soudní úschovy (§ 1953 odst. 1 o. z.), nikoli s podáním návrhu.
 
 #### H. Praktický závěr
 
-Nejprve složení, pak rozhodnutí o přijetí; k vydání vždy písemný pokyn soudce.
+Nejprve složení, pak rozhodnutí o přijetí; k vydání vždy písemný pokyn soudce. Zničení, ztráta nebo vydání předmětu úschovy neoprávněné osobě samy o sobě k zastavení řízení o vydání nevedou (NS 24 Cdo 3430/2023).
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Obsahuje návrh prohlášení podle § 291 odst. 2 z. ř. s.?
 - [ ] Byl předmět úschovy složen?
 - [ ] Jsou splněny podmínky vydání podle § 298 z. ř. s.?
 - [ ] Je pokyn k vydání podepsán soudcem?
+- [ ] Byl předmět úschovy zničen, ztracen nebo vydán neoprávněné osobě? Pokud ano, řízení o vydání nelze jen z tohoto důvodu zastavit (NS 24 Cdo 3430/2023).
 
 **Typicky rozhodné důkazy / podklady:** návrh, doklad o složení, rozhodnutí o přijetí, žádost o vydání, souhlasy účastníků.
 

@@ -2,7 +2,7 @@
 
 > **Znění účinné od 1. ledna 2026** (dokument e-Sbírky `SB-1992-00037_2026-01-01`; konec účinnosti zdroj neuvádí, jde tedy o aktuální znění). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze. Pozdější změny, které místní zdroj nezachycuje, se netvrdí.
 >
-> **Metodická poznámka:** Jednací řád je podzákonný prováděcí předpis. Jeho ustanovení se v praxi uplatňují převážně jako organizační pravidla pro soudy a jejich zaměstnance a v místních materiálech k nim není dostupná samostatná rozhodovací praxe. Komentář proto **neuvádí žádné spisové značky soudních rozhodnutí**. Výklad vychází z textu vyhlášky, z prováděných zákonů (zejména občanského soudního řádu, zákona o zvláštních řízeních soudních, trestního řádu, soudního řádu správního, zákona o soudech a soudcích a zákona o vyšších soudních úřednících), z ústavních mezí podzákonné normotvorby a ze systematiky předpisu. Kde místní prameny otázku neřeší, komentář ji výslovně označuje jako výkladovou otázku.
+> **Metodická poznámka:** Jednací řád je podzákonný prováděcí předpis. Jeho ustanovení se v praxi uplatňují převážně jako organizační pravidla pro soudy a jejich zaměstnance. Místní materiály k němu obsahují jen **čtyři karty rozhodnutí Nejvyššího soudu** (složka [judikatura/](judikatura/README.md)); žádná z jejich právních vět jednací řád přímo nevykládá, týkají se prováděných zákonů a řízení, na něž vyhláška navazuje. Komentář proto **uvádí spisové značky jen u těchto místních karet** (u § 21b, § 23, § 51 a § 113) a u každé vymezuje, co z ní pro komentované ustanovení plyne a kde jsou hranice závěru. Výklad vychází z textu vyhlášky, z prováděných zákonů (zejména občanského soudního řádu, zákona o zvláštních řízeních soudních, trestního řádu, soudního řádu správního, zákona o soudech a soudcích a zákona o vyšších soudních úřednících), z ústavních mezí podzákonné normotvorby a ze systematiky předpisu. Kde místní prameny otázku neřeší, komentář ji výslovně označuje jako výkladovou otázku.
 
 ---
 
@@ -83,12 +83,23 @@ Několik poznámek pod čarou vyhlášky odkazuje na zrušené nebo přečíslov
 >
 > Základem vnitřního uspořádání soudů jsou soudní oddělení, která se vytvářejí pro jednotlivé senáty a samosoudce. Administrativní a jiné kancelářské práce pro jedno nebo více oddělení provádí soudní kancelář. Dále jsou zřízeny společné útvary vykonávající úkony pro celý soud.
 
+## Místní judikatura
+
+Složka [judikatura/](judikatura/README.md) obsahuje čtyři karty rozhodnutí Nejvyššího soudu (kategorie A). Každá je v kapitole citována blokem s právní větou a navazujícím odstavcem „K místní judikaturní kartě …“. Žádná nevykládá jednací řád přímo; jejich dosah pro vyhlášku je nepřímý:
+
+- [NS 21 Cdo 2288/2012](judikatura/NS-21-Cdo-2288-2012.md) (2. 7. 2013) u **§ 21b** ([kap. 02](02-jednani-ukony-soudu.md)) — fikce uznání podle § 114b odst. 5 o. s. ř. nenastane, neobsahuje-li řádně doručené usnesení předepsané formální náležitosti, protože pak není veřejnou listinou. Pro § 21b z toho plyne, že formální úplnost vyhotovení může rozhodnout o procesním následku doručené písemnosti; karta však neuvádí, která náležitost chyběla, a současné znění § 21b odst. 3 a 4 posuzovat nemohla.
+- [NS 29 ICdo 154/2020](judikatura/NS-29-ICdo-154-2020.md) (29. 7. 2021) u **§ 23** ([kap. 02](02-jednani-ukony-soudu.md)) — v insolvenčním řízení nelze odmítnout jako opožděnou incidenční žalobu insolvenčního správce, který se řídil nesprávně vyznačenou doložkou právní moci, a lhůta neskončí dříve, než soud doložku vyznačí. Deklaratorní povaha vyznačení tím zůstává zachována, vyznačení však má procesní význam pro toho, kdo se jím řídil; mimo insolvenční řízení karta závěr nečiní.
+- [NS 31 Cdo 1330/2020](judikatura/NS-31-Cdo-1330-2020.md) (9. 9. 2020) u **§ 51** ([kap. 04](04-vykon-rozhodnuti-obecne-movite.md)) — soudní exekutor smí sepsat silniční motorové vozidlo přes předložený technický průkaz na jméno třetí osoby jen při důvodných pochybnostech o pravdivosti jeho údajů. Na soudního vykonavatele se úvaha přenáší jen opatrně, přes společný základ v § 326 o. s. ř. a obdobné měřítko „nepochybného prokázání“ v § 51 odst. 1 větě druhé.
+- [NS 24 Cdo 3430/2023](judikatura/NS-24-Cdo-3430-2023.md) (9. 1. 2024) u **§ 113** ([kap. 07](07-poverovani-uschovy-zaverecna.md)) — zničení, ztráta nebo vydání věci z úschovy neoprávněné osobě samy o sobě nezakládají nedostatek podmínky řízení, pro který by bylo možno zastavit řízení o vydání předmětu úschovy. Jak se pak věcně rozhodne, karta neříká.
+
+Karty obsahují jen právní větu, nikoli odůvodnění a skutkový stav; vztahují se ke znění předpisů účinnému v době rozhodnutí. Ostatních 139 komentovaných ustanovení vlastní místní kartu nemá; u § 22 a § 24 jsou jen křížové odkazy na karty citované u § 21b a § 23.
+
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle místní konsolidace (bez elips), pod ním oddíl `**Výklad:**` s tematickými podnadpisy (u řady ustanovení včetně oddílu „Zmocnění a meze“, který posuzuje krytí vyhlášky zákonem) a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem a přehledem typicky rozhodných podkladů.
 - Komentář důsledně odlišuje **organizační pravidlo vyhlášky** od **procesního práva nebo povinnosti založené zákonem**. Porušení organizačního pravidla samo o sobě zpravidla nezakládá neplatnost úkonu, může však oslabit jeho důkazní hodnotu nebo založit odpovědnost státu či pracovněprávní odpovědnost zaměstnance.
 - Kde se znění vyhlášky od pozdější zákonné úpravy odchyluje nebo na ni odkazuje nepřesně, komentář uvádí zákonnou úpravu jako rozhodující a navrhuje ústavně konformní výklad.
-- Komentář neobsahuje judikaturu a neuvádí spisové značky; doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) vycházejí výhradně z doslovných citací kapitol tohoto repozitáře.
+- Spisové značky soudních rozhodnutí komentář uvádí jen u čtyř místních karet ve složce [judikatura/](judikatura/README.md), citovaných u § 21b, § 23, § 51 a § 113; u každé karty odděluje, co z ní pro vyhlášku plyne přímo a co jen nepřímo, a vymezuje hranice závěru (karta obsahuje jen právní větu, datum rozhodnutí a tehdejší znění předpisů). Doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) vycházejí výhradně z doslovných citací kapitol tohoto repozitáře.
 
 ---
 

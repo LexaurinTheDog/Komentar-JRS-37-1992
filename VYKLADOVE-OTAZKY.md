@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k vyhlášce Ministerstva spravedlnosti České republiky č. 37/1992 Sb., o jednacím řádu pro okresní a krajské soudy. Vychází výhradně z místních kapitol, místního doslovného znění vyhlášky a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři nejsou; složka `judikatura/` se doplní strojově později. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k vyhlášce Ministerstva spravedlnosti České republiky č. 37/1992 Sb., o jednacím řádu pro okresní a krajské soudy. Vychází výhradně z místních kapitol, místního doslovného znění vyhlášky a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není; místní judikaturu tvoří jen čtyři karty rozhodnutí Nejvyššího soudu ve složce [judikatura/](judikatura/README.md), citované u § 21b, § 23, § 51 a § 113, které vyhlášku přímo nevykládají (viz otázka 9). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -38,7 +38,7 @@ Výslovně pojmenované hodnotové nebo interpretační osy jsou: přednost zák
 Samostatně označené uzly pro působnost, adresáty a základní rozsah: [§ 3 — úkony mimo soudní budovu](01-organizace-ukoly-nahlizeni.md); [§ 4 — okruh soudních pracovníků](01-organizace-ukoly-nahlizeni.md); [§ 45 — rozhodování a provádění výkonu](04-vykon-rozhodnuti-obecne-movite.md); [§ 74 — soudní komisař](06-pozustalost.md); [§ 116f — vrchní soudy](07-poverovani-uschovy-zaverecna.md).
 - **Soudy:** okresní a krajské soudy; podle § 116f též vrchní soudy („Ustanovení této vyhlášky se užijí též pro řízení před vrchními soudy.“), přičemž Nejvyšší soud má vlastní jednací řád.
 - **Soudní komisař:** „Pro činnost soudního komisaře se použijí přiměřeně ustanovení částí čtvrté až šesté.“ (§ 74 odst. 2).
-- **Exekuce:** úvod uvádí, že „Jednací řád dopadá na soudní výkon rozhodnutí, nikoli na exekuci vedenou soudním exekutorem podle exekučního řádu.“ Zda se technická pravidla uplatní přiměřeně i při úkonech exekutora, označuje kapitola 5 jako výkladovou otázku.
+- **Exekuce:** úvod uvádí, že „Jednací řád dopadá na soudní výkon rozhodnutí, nikoli na exekuci vedenou soudním exekutorem podle exekučního řádu.“ Zda se technická pravidla uplatní přiměřeně i při úkonech exekutora, označuje kapitola 5 jako výkladovou otázku. Místní karta [NS 31 Cdo 1330/2020](judikatura/NS-31-Cdo-1330-2020.md) u § 51 ji neřeší: týká se postupu soudního exekutora a komentář její úvahu přenáší opačným směrem, na vykonavatele, jen opatrně přes společný základ v § 326 o. s. ř.
 - **Subjekty mimo soudní soustavu** (Probační a mediační služba, věznice, zdravotnická a výchovná zařízení, policie): vyhláška je zavazuje jen v rozsahu, v němž jim povinnost ukládá zákon.
 - **Výjimky:** § 3 odst. 3 („Ustanovení odstavců 1 a 2 se neužije, jde-li o provedení důkazu ohledáním.“), diplomatické imunity (§ 3 odst. 4), upuštění od předání úschovy bance (§ 113b odst. 2) a výjimečné dodatečné sepsání protokolu (§ 49 odst. 4).
 - **Čas:** znění účinné od 1. 1. 2026; na dřívější úkony se použije znění účinné v době úkonu.
@@ -59,7 +59,8 @@ Při kontrole pojmů nelze obejít zejména:
 - **vykonavatele**, který úkony provádí, ale nerozhoduje (§ 45 odst. 2 a 3);
 - **jednoduchý úkon** (§ 45 odst. 2), který vyhláška nevymezuje; podle kapitoly 4 jím nejsou úkony zasahující do základních práv;
 - **soudního komisaře**, který jedná jménem soudu a s jeho oprávněními (§ 74);
-- **nepochybné prokázání na místě** jako důkazní standard pro upuštění od soupisu (§ 51 odst. 1);
+- **nepochybné prokázání na místě** jako důkazní standard pro upuštění od soupisu (§ 51 odst. 1); u silničního motorového vozidla s technickým průkazem na jméno třetí osoby jej nepřímo osvětluje místní karta [NS 31 Cdo 1330/2020](judikatura/NS-31-Cdo-1330-2020.md) (soupis jen při důvodných pochybnostech o údajích v průkazu);
+- **veřejná listina** jako vlastnost vyhotovení, na níž může záviset procesní následek doručené písemnosti (§ 21b; místní karta [NS 21 Cdo 2288/2012](judikatura/NS-21-Cdo-2288-2012.md) k § 114b odst. 5 o. s. ř.);
 - **instrukci ministerstva** jako vnitřní akt, který účastníky nezavazuje (§ 68 odst. 2).
 
 Kapitoly samy označují jako nedefinované nebo hraniční zejména společný útvar (§ 1), stručný popis sepsané věci (§ 56), vyvolanou cenu (§ 59), vhodné místo (§ 53, § 83), jinou závažnou okolnost (§ 85) a zájmové sdružení občanů (§ 38). Vyhláška označuje zákon č. 292/2013 Sb. zkratkou z. z. ř.; komentář užívá z. ř. s.
@@ -111,6 +112,7 @@ Normativní text a výklad v místních kapitolách upozorňují například na:
 - [§ 49 odst. 6 místní znění](04-vykon-rozhodnuti-obecne-movite.md): „Zaznamenány musí být všechny úkony, k nimž při prohlídce bytu a jiných místností dochází.“
 - [§ 66 místní znění](05-vykon-rozhodnuti-nemovite-dalsi.md): soud zjevně bezcenné věci „zdokumentuje tak, že je vyfotografuje nebo pořídí jejich zvukově obrazový záznam.“
 - [§ 51 — výklad](04-vykon-rozhodnuti-obecne-movite.md): „Pouhá tvrzení nemohou zmařit výkon; sporné vlastnictví řeší soud v řízení o vylučovací žalobě (§ 267 o. s. ř.).“
+- [§ 51 — k místní kartě NS 31 Cdo 1330/2020](04-vykon-rozhodnuti-obecne-movite.md): „Požadavek nepochybnosti nelze naopak vykládat tak, že k soupisu stačí jakákoli abstraktní možnost, že listina neodpovídá skutečnosti.“
 - [§ 49 — výklad](04-vykon-rozhodnuti-obecne-movite.md): „Vady protokolu samy o sobě úkon neruší. Oslabují však jeho důkazní hodnotu“.
 - [§ 21 — uchování záznamu](02-jednani-ukony-soudu.md): „vyhláška nemůže zákonné pravidlo o součásti spisu prolomit“.
 
@@ -129,6 +131,9 @@ Reprezentativní místní normativní vazby:
 - [§ 45 — zmocnění a meze](04-vykon-rozhodnuti-obecne-movite.md): „Rozhodnutí vydané osobou, která k němu nebyla oprávněna, je vadné bez ohledu na vnitřní pověření.“
 - [§ 13 — organizační pravidlo a zákonné sankce](02-jednani-ukony-soudu.md): „Sankci lze uložit jen při naplnění zákonných znaků“.
 - [§ 116a — výklad](07-poverovani-uschovy-zaverecna.md): „Lhůty stanoví zákon; vyhláška nemůže je prodloužit ani stanovit, že nedosažitelnost soudce omlouvá jejich zmeškání.“
+- [§ 21b — výklad](02-jednani-ukony-soudu.md) (místní karta NS 21 Cdo 2288/2012): „řádně doručené usnesení podle § 114b odst. 1 o. s. ř., které neobsahuje předepsané formální náležitosti, není veřejnou listinou a fikci uznání nevyvolá“.
+- [§ 23 — výklad](02-jednani-ukony-soudu.md) (místní karta NS 29 ICdo 154/2020): „Deklaratorní povaha však neznamená, že vyznačení je bez procesního významu“; v insolvenčním řízení nelze odmítnout jako opožděnou incidenční žalobu správce, který se řídil nesprávně vyznačenou doložkou.
+- [§ 113 — výklad](07-poverovani-uschovy-zaverecna.md) (místní karta NS 24 Cdo 3430/2023): zničení, ztráta nebo vydání předmětu úschovy neoprávněné osobě samy o sobě nevedou k zastavení řízení o vydání.
 
 Prostředky ochrany zakládá zákon: opravný prostředek proti rozhodnutí soudního tajemníka nebo justičního kandidáta (§ 7 JŘ s § 374 odst. 3 o. s. ř. a § 146 odst. 1 tr. ř.), námitky proti znění protokolu, vylučovací žaloba a návrh na zastavení výkonu (§ 267 a § 268 o. s. ř.), stížnost na postup soudu a nárok na náhradu škody vůči státu.
 
@@ -161,12 +166,17 @@ Doslovný výklad omezuje nejčastěji první zásada; kapitola 4 ji u § 51 shr
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní korpus obsahuje **0** karet rozhodnutí; v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací a kapitoly neuvádějí žádnou spisovou značku. Úvod to výslovně vysvětluje: „Komentář proto neuvádí žádné spisové značky soudních rozhodnutí.“ Složka `judikatura/` se doplní strojově později; do té doby jde o mezeru.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Zásady v [ZASADY.md](ZASADY.md) jsou dovozeny z textu vyhlášky, prováděných zákonů a ústavního rámce, nikoli z rozhodovací praxe.
+Místní korpus obsahuje **4** karty rozhodnutí Nejvyššího soudu (kategorie A) ve složce [judikatura/](judikatura/README.md); každá je citována u jednoho ustanovení a v systematickém souboru zásad je na ně odkazováno u zásad 6, 8 a 10. Úvod jejich postavení vymezuje větou: „Komentář proto uvádí spisové značky jen u těchto místních karet (u § 21b, § 23, § 51 a § 113)“. Žádná karta nevykládá jednací řád přímo; co z nich plyne:
+- [NS 21 Cdo 2288/2012](judikatura/NS-21-Cdo-2288-2012.md) (2. 7. 2013), [§ 21b](02-jednani-ukony-soudu.md) — fikce uznání podle § 114b odst. 5 o. s. ř. nenastane, neobsahuje-li řádně doručené usnesení předepsané formální náležitosti (není veřejnou listinou). Nepřímo: formální úplnost vyhotovení může rozhodnout o procesním následku. Hranice: karta neuvádí, která náležitost chyběla, ani zda stačí vada podle samotného § 21b; současné znění § 21b odst. 3 a 4 je pozdější.
+- [NS 29 ICdo 154/2020](judikatura/NS-29-ICdo-154-2020.md) (29. 7. 2021), [§ 23](02-jednani-ukony-soudu.md) — v insolvenčním řízení nelze odmítnout jako opožděnou incidenční žalobu insolvenčního správce, který se řídil nesprávně vyznačenou doložkou právní moci, a lhůta neskončí dříve, než soud doložku vyznačí. Nepřímo (přes § 18 vyhlášky č. 311/2007 Sb.): deklaratorní vyznačení má procesní význam pro toho, kdo se jím řídí. Hranice: jen insolvenční řízení; mimo ně zůstává otázka otevřená.
+- [NS 31 Cdo 1330/2020](judikatura/NS-31-Cdo-1330-2020.md) (9. 9. 2020), [§ 51](04-vykon-rozhodnuti-obecne-movite.md) — soudní exekutor smí sepsat silniční motorové vozidlo přes předložený technický průkaz na jméno třetí osoby jen při důvodných pochybnostech o pravdivosti jeho údajů. Nepřímo: na vykonavatele se úvaha přenáší opatrně přes § 326 o. s. ř. a § 52 exekučního řádu. Hranice: jen vozidlo a technický průkaz, nikoli jiné listiny.
+- [NS 24 Cdo 3430/2023](judikatura/NS-24-Cdo-3430-2023.md) (9. 1. 2024), [§ 113](07-poverovani-uschovy-zaverecna.md) — zničení, ztráta nebo vydání věci z úschovy neoprávněné osobě samy o sobě nezakládají nedostatek podmínky řízení, pro který by bylo možno zastavit řízení o vydání. Nepřímo: na § 113 odst. 2 (písemný pokyn soudce). Hranice: karta neříká, jak se věcně rozhodne ani jak se oprávněný domůže náhrady.
 
-**Jak ji řešit.** Až budou karty doplněny, u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění jednacího řádu a stejnou verzi prováděného zákona a zda posuzoval vyhlášku, nebo zákon. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby chybějící místní judikaturu označujte jako mezeru.
+Karty obsahují jen právní větu, nikoli odůvodnění a skutkový stav, a vztahují se ke znění předpisů účinnému v době rozhodnutí. Zásady v [ZASADY.md](ZASADY.md) zůstávají dovozeny z textu vyhlášky, prováděných zákonů a ústavního rámce; karty k nim připojují jen nepřímou oporu. U ostatních 139 ustanovení místní karta chybí a judikatorní odpověď se nesmí domýšlet.
 
-**Místní opora.** [úvod — metodická poznámka](00-uvod.md); [místní zásady a jejich metoda](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Jak ji řešit.** U každé karty oddělte, co říká právní věta, od toho, co z ní komentář pro vyhlášku dovozuje; nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady z pouhé právní věty rekonstruovat nelze. Ověřte, zda soud vykládal stejné znění jednacího řádu a stejnou verzi prováděného zákona a zda posuzoval vyhlášku, nebo zákon (u všech čtyř karet zákon). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo (soudní exekutor → vykonavatel, insolvenční řízení → jiná řízení) bez výslovného zdůvodnění; u ustanovení bez karty označujte chybějící místní judikaturu jako mezeru.
+
+**Místní opora.** [úvod — metodická poznámka a místní judikatura](00-uvod.md); [složka judikatura/](judikatura/README.md); [§ 21b a § 23](02-jednani-ukony-soudu.md); [§ 51](04-vykon-rozhodnuti-obecne-movite.md); [§ 113](07-poverovani-uschovy-zaverecna.md); [místní zásady a jejich metoda](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -186,15 +196,18 @@ Systematická vrstva je pro jednací řád rozhodující, protože úvod uvádí
 ## 11. Kde jsou konkurenční výklady, protiargumenty a hraniční případy?
 
 **Odpověď pro tento komentář.**
-Všech 143 paragrafových jednotek má oddíl G. Protiargumenty a rizika; kapitoly obsahují 149 výskytů výslovného označení výkladové otázky. Místní kapitoly výslovně zachycují například tyto otázky nebo námitky:
+Všech 143 paragrafových jednotek má oddíl G. Protiargumenty a rizika; kapitoly obsahují 151 výskytů výslovného označení výkladové otázky. Místní kapitoly výslovně zachycují například tyto otázky nebo námitky:
 - [§ 2 — vada rozvrhu práce a zákonný soudce](01-organizace-ukoly-nahlizeni.md)
 - [§ 6 a § 7 — krytí úkonů soudních tajemníků ve správním soudnictví a autoremedura](01-organizace-ukoly-nahlizeni.md)
 - [§ 11 — náboženská pokrývka hlavy v jednací síni](02-jednani-ukony-soudu.md)
 - [§ 17 — kapacita síně a veřejnost jednání](02-jednani-ukony-soudu.md)
+- [§ 21b a § 22 — zda vada spočívající jen v porušení vyhlášky (podpis vyhotovitele, razítko) zbavuje písemnost povahy veřejné listiny; místní karta NS 21 Cdo 2288/2012 to neřeší](02-jednani-ukony-soudu.md)
+- [§ 23 — ochrana důvěry v nesprávně vyznačenou doložku mimo insolvenční řízení; místní karta NS 29 ICdo 154/2020 ji řeší jen pro insolvenční řízení](02-jednani-ukony-soudu.md)
 - [§ 26 — vynutitelnost výzvy při rekonstrukci spisu](02-jednani-ukony-soudu.md)
 - [§ 33 — ušlý výdělek zástupce, který není advokátem](03-doruceni-nahrady-trestni-vykon.md): „Zda smluvnímu zástupci-neadvokátovi náleží ušlý výdělek, je výkladová otázka.“
 - [§ 37 a § 43 — závaznost vyhlášky pro Vězeňskou službu](03-doruceni-nahrady-trestni-vykon.md)
 - [§ 51 — soupis věcí vyloučených z výkonu](04-vykon-rozhodnuti-obecne-movite.md)
+- [§ 51 — co je nepochybné prokázání vlastnictví třetí osoby; u vozidla s technickým průkazem ji řeší místní karta NS 31 Cdo 1330/2020 (pro soudního exekutora), u jiných listin zůstává otevřená](04-vykon-rozhodnuti-obecne-movite.md)
 - [§ 59e — kdo uděluje příklep při elektronické dražbě movitých věcí](04-vykon-rozhodnuti-obecne-movite.md)
 - [úvod kapitoly 5 — použití JŘ při úkonech soudního exekutora](05-vykon-rozhodnuti-nemovite-dalsi.md)
 - [§ 101 — chybějící rozvrh notářů k 1. lednu](07-poverovani-uschovy-zaverecna.md)
@@ -203,7 +216,7 @@ Všech 143 paragrafových jednotek má oddíl G. Protiargumenty a rizika; kapito
 - [§ 116f — trestní agenda vrchních soudů](07-poverovani-uschovy-zaverecna.md)
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů — doslovného výkladu vyhlášky i souladného výkladu podle zákona. U každého uveďte textový, systematický, účelový a historický argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument zatím chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty, doporučte bezpečnější postup a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů — doslovného výkladu vyhlášky i souladného výkladu podle zákona. U každého uveďte textový, systematický, účelový a historický argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument je k dispozici jen u § 21b, § 23, § 51 a § 113, a to nepřímý, jinde chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty, doporučte bezpečnější postup a transparentně označte nejistotu.
 
 **Místní opora.** [místní kapitoly](01-organizace-ukoly-nahlizeni.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -221,15 +234,15 @@ Příklad výslovné subsumpce z kapitoly 1: „Zákonný soudce se váže k sou
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **8** kapitolových souborů (úvod a kapitoly 01 až 07) se **143** paragrafovými jednotkami a **0** karet rozhodnutí, doplněných samostatnou mapou zásad (11 zásad) a modalit (34 fragmentů). Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **8** kapitolových souborů (úvod a kapitoly 01 až 07) se **143** paragrafovými jednotkami a **4** kartami rozhodnutí Nejvyššího soudu (jen právní věty, citované u § 21b, § 23, § 51 a § 113), doplněných samostatnou mapou zásad (11 zásad) a modalit (34 fragmentů). Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` se doplní strojově později;
+- místní judikatura je omezena na čtyři karty, které vyhlášku přímo nevykládají a neobsahují odůvodnění; ostatních 139 ustanovení vlastní místní kartu nemá;
 - repozitář neobsahuje důvodovou zprávu ani odůvodnění vyhlášky a jejích novel;
 - místní konsolidace neobsahuje účinnostní a přechodná ustanovení novelizačních vyhlášek;
 - obsah instrukcí ministerstva, na které vyhláška odkazuje (§ 68 odst. 2, instrukce o styku s cizinou u § 37), místně dostupný není;
 - kapitola 2 postrádá u 22 z 23 jednotek přehled typicky rozhodných důkazů a podkladů.
 
-Aktualizaci musí spustit zejména novela jednacího řádu, změna prováděného zákona nebo přečíslování zmocnění, strojové doplnění složky `judikatura/`, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
+Aktualizaci musí spustit zejména novela jednacího řádu, změna prováděného zákona nebo přečíslování zmocnění, doplnění další karty do složky `judikatura/`, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, zmocnění, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 

@@ -569,11 +569,13 @@ Soupis na místě se řídí § 326 o. s. ř. a § 50 JŘ jej technicky rozvád�
 - *NS* [31 Cdo 1330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/067E226015ED3E97C12586010023F9FE?openDocument) — 9. 9. 2020, kat. A
   > „„Soudní exekutor může pojmout silniční motorové vozidlo do soupisu movitých věcí, ačkoliv je mu při soupisu předložen technický průkaz osvědčující vlastnictví třetí osoby, pouze tehdy, má-li důvodné pochybnosti o pravdivosti údajů v technickém průkazu.“"
 
+**K místní judikaturní kartě NS 31 Cdo 1330/2020:** Karta se týká soupisu movitých věcí soudním exekutorem v exekuci podle exekučního řádu, kdežto § 51 jednacího řádu upravuje postup soudního vykonavatele při soudním výkonu rozhodnutí (jednací řád na exekuci vedenou soudním exekutorem nedopadá). Na komentované ustanovení proto míří jen nepřímo a jednací řád nevykládá. Podle právní věty smí exekutor pojmout silniční motorové vozidlo do soupisu, ačkoli je mu předložen technický průkaz osvědčující vlastnictví třetí osoby, jen tehdy, má-li důvodné pochybnosti o pravdivosti údajů v technickém průkazu. Přenesení úvahy na vykonavatele lze opatrně zdůvodnit tím, že obě situace stojí na stejném zákonném základu: soupis movitých věcí upravuje § 326 o. s. ř., který se v exekučním řízení použije přiměřeně (§ 52 odst. 1 exekučního řádu), a exekutor je oprávněn vykonat úkony, které o. s. ř. svěřuje vykonavateli (§ 52 odst. 2 exekučního řádu); § 51 odst. 1 věta druhá JŘ navíc sám stanoví obdobné měřítko, totiž že se soupis neprovede, je-li na místě nepochybně prokázáno, že věc povinnému nepatří. Pro vykonavatele lze z karty opatrně dovodit, že technický průkaz na jméno třetí osoby zpravidla postačí k „nepochybnému prokázání“ podle § 51 odst. 1 věty druhé, ledaže vykonavatel zjistí konkrétní okolnosti zakládající důvodné pochybnosti o pravdivosti údajů v průkazu; i pak lze vozidlo sepsat jen subsidiárně podle věty první. Hranice závěru: karta obsahuje jen právní větu z 9. 9. 2020; nosné důvody a skutkové okolnosti z ní zřejmé nejsou, stejně jako to, zda se soud opíral o úpravu specifickou pro exekuční řízení, nebo o předpisy o registraci vozidel. Týká se jen silničního motorového vozidla a technického průkazu; na jiné listiny (kupní smlouvy, faktury, dědická usnesení) ji nelze bez dalšího přenášet. Povahu a obsah technického průkazu je třeba posuzovat podle předpisů o registraci vozidel účinných v době soupisu, které místní korpus nezachycuje.
+
 #### Soupis přes tvrzení třetí osoby (odst. 1)
 
 Tvrdí-li osoba přítomná při soupisu, že věc patří třetí osobě nebo že je z výkonu vyloučena, vykonavatel věc přesto sepíše, pokud nejsou jiné postižitelné věci, které by k úhradě nároku s příslušenstvím postačily. Soupis se neprovede jen tehdy, je-li na místě nepochybně prokázáno, že věc povinnému nepatří. Ustanovení vychází ze zásady, že vykonavatel o vlastnictví nerozhoduje. Pouhá tvrzení nemohou zmařit výkon; sporné vlastnictví řeší soud v řízení o vylučovací žalobě (§ 267 o. s. ř.).
 
-Ustanovení tak stanoví dvojí test. (i) *Subsidiarita*: věc zatíženou tvrzením cizího práva lze sepsat, jen nejsou-li jiné postačující věci. (ii) *Důkazní standard*: soupis se neprovede jen při nepochybném prokázání na místě, typicky listinou (smlouva, doklad o koupi na jméno třetí osoby) v souvislosti s okolnostmi. Pouhé čestné prohlášení zpravidla nestačí.
+Ustanovení tak stanoví dvojí test. (i) *Subsidiarita*: věc zatíženou tvrzením cizího práva lze sepsat, jen nejsou-li jiné postačující věci. (ii) *Důkazní standard*: soupis se neprovede jen při nepochybném prokázání na místě, typicky listinou (smlouva, doklad o koupi na jméno třetí osoby) v souvislosti s okolnostmi. Pouhé čestné prohlášení zpravidla nestačí. Požadavek nepochybnosti nelze naopak vykládat tak, že k soupisu stačí jakákoli abstraktní možnost, že listina neodpovídá skutečnosti. U silničního motorového vozidla, k němuž je předložen technický průkaz osvědčující vlastnictví třetí osoby, připouští místní karta NS 31 Cdo 1330/2020 (vydaná k postupu soudního exekutora) soupis jen při důvodných pochybnostech o pravdivosti údajů v průkazu; tyto pochybnosti musí vykonavatel opřít o konkrétní zjištění na místě a je vhodné je spolu s tvrzením podle odst. 2 zaznamenat v protokolu.
 
 #### Věci vyloučené z výkonu – nutnost souladu se zákonem
 
@@ -604,17 +606,17 @@ Vykonavatel je povinen poučit, jak lze tvrzená práva uplatnit (§ 267 o. s. �
 
 **5. Řešení.** Vykonavatel sepíše obraz, pilu a televizor. Do protokolu zapíše tvrzení družky (jméno, zaměstnání, bydliště, právní důvod dědění) i tvrzení povinného o pile a poučí družku o vylučovací žalobě a povinného o možnosti navrhnout zastavení výkonu. Soud, shledá-li tvrzení družky pravděpodobným, ji písemně uvědomí (§ 326 odst. 11 o. s. ř.). Dražba obrazu se nařídí nejdříve 30 dnů po doručení uvědomění.
 
-**6. Varianty.** (a) Družka předloží originál dědického usnesení s přesným popisem a fotografií obrazu. Vlastnictví je nepochybně prokázáno; obraz se nesepíše. (b) Oprávněný souhlasí s vyloučením pily. Vykonavatel ji vyloučí ze soupisu (§ 56 odst. 5 JŘ).
+**6. Varianty.** (a) Družka předloží originál dědického usnesení s přesným popisem a fotografií obrazu. Vlastnictví je nepochybně prokázáno; obraz se nesepíše. (b) Oprávněný souhlasí s vyloučením pily. Vykonavatel ji vyloučí ze soupisu (§ 56 odst. 5 JŘ). (c) Ve dvoře stojí osobní automobil a družka předloží technický průkaz, v němž je zapsána jako vlastnice. Nejsou-li konkrétní okolnosti zakládající důvodné pochybnosti o pravdivosti zápisu, vykonavatel vozidlo nesepíše (§ 51 odst. 1 věta druhá; srov. místní kartu NS 31 Cdo 1330/2020, vydanou k postupu soudního exekutora). Má-li takové pochybnosti, může vozidlo sepsat jen subsidiárně a důvody pochybností zaznamená v protokolu.
 
 #### G. Protiargumenty a rizika
 
 - *„Podle § 51 odst. 1 JŘ lze sepsat i věci vyloučené z výkonu, nejsou-li jiné.“* Neutralizace: zákon vylučuje věci podle § 321 a § 322 o. s. ř. bezvýjimečně. Soupis přes tvrzení je přípustný jen u sporného, nikoli zjevného vyloučení.
 - *Riziko pro třetí osobu:* nepodá-li vylučovací žalobu včas, může věc být vydražena. Poučení a záznam v protokolu jsou proto podstatné.
-- *Výkladová otázka:* jaký důkaz na místě dosahuje úrovně „nepochybného prokázání“. Rozhoduje identifikace konkrétní věci v listině a soulad s okolnostmi.
+- *Výkladová otázka:* jaký důkaz na místě dosahuje úrovně „nepochybného prokázání“. Rozhoduje identifikace konkrétní věci v listině a soulad s okolnostmi. Pro silniční motorové vozidlo, k němuž je předložen technický průkaz na jméno třetí osoby, otázku řeší místní karta NS 31 Cdo 1330/2020 (soupis jen při důvodných pochybnostech o pravdivosti údajů v průkazu), byť výslovně pro soudního exekutora; pro jiné věci a jiné listiny zůstává otázka otevřená.
 
 #### H. Praktický závěr
 
-Vykonavatel o vlastnictví nerozhoduje. Sporné věci sepíše jen subsidiárně, tvrzení pečlivě zaznamená a poučí o vylučovací žalobě. Zjevně vyloučené věci nesepisuje nikdy.
+Vykonavatel o vlastnictví nerozhoduje. Sporné věci sepíše jen subsidiárně, tvrzení pečlivě zaznamená a poučí o vylučovací žalobě. Zjevně vyloučené věci nesepisuje nikdy. Vozidlo, k němuž je předložen technický průkaz na jméno třetí osoby, sepíše jen při důvodných pochybnostech o pravdivosti údajů v průkazu (srov. NS 31 Cdo 1330/2020).
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Bylo vlastnictví třetí osoby na místě nepochybně prokázáno?
@@ -622,8 +624,9 @@ Vykonavatel o vlastnictví nerozhoduje. Sporné věci sepíše jen subsidiárně
 - [ ] Je vyloučení podle § 321 a § 322 o. s. ř. zjevné, nebo jen sporné?
 - [ ] Obsahuje protokol údaje podle odst. 2 a poučení podle § 267 o. s. ř.?
 - [ ] Uvědomil soud třetí osobu podle § 326 odst. 11 o. s. ř.?
+- [ ] Je-li předložen technický průkaz vozidla na jméno třetí osoby: jaké konkrétní okolnosti zakládají důvodné pochybnosti o jeho údajích a jsou zaznamenány v protokolu?
 
-**Typicky rozhodné důkazy / podklady:** listiny o nabytí věci (smlouvy, faktury, dědická usnesení), protokol, zvukově obrazový záznam.
+**Typicky rozhodné důkazy / podklady:** listiny o nabytí věci (smlouvy, faktury, dědická usnesení), technický průkaz vozidla, protokol, zvukově obrazový záznam.
 
 ### § 52 — Označení věcí
 
